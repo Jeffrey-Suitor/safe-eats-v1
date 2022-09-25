@@ -4,7 +4,7 @@ import React from "react";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { TRPCProvider } from "./utils/trpc";
 
-import { HomeScreen } from "./screens/home";
+import { HomeScreen } from "./pages/home";
 
 const App = () => {
   return (
