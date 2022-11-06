@@ -1,3 +1,10 @@
+# DEPRECATED
+
+This project contains the original v1 for the Safe Eats project. It contains:
+- The ESP32 code and ESP32 Camera code. This code is deprecated as the ESP32 Camera was replaced with a barcode scanner.
+- The original Flutter app. This was deprecated in favour of a React Native implementation.
+- The unfinished React Native implementation. This was deprecated as I didn't like the structure of the t3-turbo so I modified their stack to use npm and moved it all to a new repository.
+
 # create-t3-turbo
 
 ## About
